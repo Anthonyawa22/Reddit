@@ -1,0 +1,29 @@
+.post-left img {
+    height: 20px;
+    width: auto;
+    
+}
+
+.post-left {
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.post {
+    display: flex;
+    align-items: center;
+    margin: 1.5em 1em;
+}
+
+.post-center img {
+    height: 200px;
+    width: auto;
+}
+
+.post div {
+    margin-right: 20px;
+}

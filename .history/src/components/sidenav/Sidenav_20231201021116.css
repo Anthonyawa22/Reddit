@@ -1,0 +1,46 @@
+.sidenav_logo img {
+    height: 80px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 0 20px;
+}
+
+.sidenav {
+    width: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    padding-right: 25px;
+    border-right: 1px solid #ccc;
+}
+
+.sidenav_search {
+    margin-left: 10px;
+    display: flex;
+    position: relative;
+}
+
+.sidenav_search input {
+    padding: 8px 10px;
+    cursor: zoom-in;
+    box-shadow: 0 2px 3px 0 rgba(3, 120, 3, 0.928);
+}
+
+.sidenav_search button img {
+    width: 20px;
+    height: auto;
+}
+
+.sidenav a {
+    text-decoration: none;
+    color: rgb(6, 56, 6);
+}
+
+.sidenav_links li {
+    padding: 8px 10px;
+    list-style: none;
+}
+
+.sidenav hr {
+    margin: 2em 0;
+}

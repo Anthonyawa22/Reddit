@@ -1,0 +1,46 @@
+.bell-icon {
+    height: 20px;
+    width: auto;
+}
+
+button {
+    padding: 2px 5px 2px 5px;
+    height: 30px;
+    width: 40px;
+}
+
+.user-icon {
+    height: 10px;
+    width: auto;
+}
+
+.header {
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left a, li {
+    text-decoration: none;
+    list-style: none;
+    padding: 5px 20px 20px 20px;
+    margin-right: 10px;
+}
+
+.header-left ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left a.active {
+    color: #fd4500;
+    border-bottom: 2px solid #fd4500;
+}
+
+.header-right {
+    display: flex;
+    margin-left: 70px;
+
+}

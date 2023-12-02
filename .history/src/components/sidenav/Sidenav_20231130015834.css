@@ -1,0 +1,22 @@
+.sidenav_logo img {
+    height: 80px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 0 20px;
+}
+
+.sidenav {
+    width: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+
+.sidenav_search {
+    margin-left: 10px;
+}
+
+.sidenav_search input {
+    padding: 20px;
+}
+

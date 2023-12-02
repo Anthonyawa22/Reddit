@@ -1,0 +1,33 @@
+.bell-icon {
+    height: 20px;
+    width: auto;
+}
+
+.user-icon {
+    height: 10px;
+    width: auto;
+}
+
+.header {
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left a, li {
+    text-decoration: none;
+    list-style: none;
+    padding: 5px 20px 5px 20px;
+}
+
+.header-left ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left a.active {
+    color: #fd4500;
+}
+

@@ -1,0 +1,63 @@
+.bell-icon {
+    height: 18px;
+    width: auto;
+    margin-right: 0;
+}
+
+.header-right button {
+    padding: 2px 5px 2px 5px;
+    height: 28px;
+    width: 35px;
+    border-radius: 20%;
+}
+
+.user-icon {
+    height: 10px;
+    width: auto;
+}
+
+.header {
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header-left a, li {
+    text-decoration: none;
+    list-style: none;
+    padding: 5px 20px 20px 20px;
+    margin-right: 10px;
+    color: #808080;
+}
+
+.header-left ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left a.active {
+    color: #fd4500;
+    border-bottom: 2px solid #fd4500;
+}
+
+.header-right {
+    display: flex;
+    margin-left: 70px;
+    align-items: center;
+    margin-top: 0;
+}
+
+.header-right span {
+    margin-right: 20px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.user-pic {
+    height: 40px;
+    width: auto;
+    margin-left: 10px;
+}

@@ -1,0 +1,11 @@
+.sidenav_logo img {
+    height: 80px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.sidenav {
+    width: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
