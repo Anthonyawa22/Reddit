@@ -19,7 +19,8 @@
     margin: 1.5em 1em;
     justify-content: center;
     border-bottom: 1px solid #ccc; 
-    padding-bottom: 20px;
+  padding-bottom: 10px;
+  position: relative;
 }
 
 .post-center img {

@@ -16,6 +16,7 @@
 .post {
     display: flex;
     align-items: center;
+    align-content: first baseline;
     margin: 1.5em 1em;
     justify-content: center;
     border-bottom: 1px solid #ccc; 

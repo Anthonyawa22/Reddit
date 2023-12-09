@@ -17,9 +17,8 @@
     width: auto;
 }
 
-button {
-    border-color: orange;
-    border-width: 1px;
+.user button {
+
 }
 
 .header {

@@ -25,7 +25,9 @@ export default function PostItem(props) {
                         {comments} comments | share | save | hide | report
                     </p>
                 </span>
-            </div>   
+
+            </div>
+            
         </div>
     )
 }
