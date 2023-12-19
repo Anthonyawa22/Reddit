@@ -17,9 +17,9 @@ export default function Header() {
                     <div>
                         <button><img  className="bell-icon" src="https://cdn-icons-png.flaticon.com/512/5035/5035563.png" alt="" /></button>
                     </div>
-                    <img className="user-pic" src="https://static.vecteezy.com/system/resources/previews/014/194/215/original/avatar-icon-human-a-person-s-badge-social-media-profile-symbol-the-symbol-of-a-person-vector.jpg" alt=""/>
+                    <img className="user-pic" src="https://static.vecteezy.com/system/resources/previews/024/183/535/original/male-avatar-portrait-of-a-young-man-with-glasses-illustration-of-male-character-in-modern-color-style-vector.jpg" alt=""/>
                     <div className="user">
-                        <span>Angela Ilieva   </span>
+                        <span>Anthony Awa </span>
                         <button><img className="user-icon" src="https://spaces-cdn.clipsafari.com/s5kodg8dwu2znzd8c1kfc6cnqcxs" alt=""/></button>
                     </div>
                 </div>
